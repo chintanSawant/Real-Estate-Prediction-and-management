@@ -1,0 +1,13 @@
+body{
+    height: 700px;
+    /* justify-content: center;
+    align-items: center;
+    background: url(pic/5.jpg);
+    background-size: cover; */
+    
+}
+
+
+.footer_section {
+    background-color:linear-gradient( rgba(237, 95, 7, 0.751),rgba(237, 6, 44, 0.756));
+}

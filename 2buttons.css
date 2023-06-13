@@ -1,0 +1,23 @@
+body{
+    height: 690px;
+    justify-content: center;
+    background:url(pic/10.png)
+}
+
+.button{
+    border: rgb(0, 0, 0);
+    padding: 35px 90px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 303px 135px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: 500;
+
+
+}
+.container-fluid footer_section {
+    margin-top: 1000px;
+}
