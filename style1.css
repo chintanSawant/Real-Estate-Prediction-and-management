@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: rgba(107, 199, 37, 0.688);
+}
+.row
+{
+    background-color:white;
+    border-radius: 25px;
+    box-shadow: 10px 10px 22px grey;
+}
+img{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.btn-1{
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 80%;
+    background-color: black;
+    color: bisque;
+    border-radius: 3px;
+    font-weight: bold;
+    margin-left: 40px;
+}
+.btn-1:hover{
+    background-color:darkgrey;
+    border: 1px solid;
+    color:rgb(0, 0, 0);
+}
